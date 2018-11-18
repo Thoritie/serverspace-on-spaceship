@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/website":{"create":true,"guestpath":"/srv/website","hostpath":"/Users/thoritie/internlife/spaceship/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/thoritie/internlife/spaceship","disabled":false,"__vagrantfile":true}}}
