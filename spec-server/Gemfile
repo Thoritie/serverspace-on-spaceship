@@ -1,0 +1,5 @@
+source 'https://rubygems.org' do
+  gem 'serverspec'
+  gem 'rake'
+  ruby '2.3.6'
+end
